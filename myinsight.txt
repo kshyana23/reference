@@ -1,0 +1,9 @@
+file
+folder
+repos
+git init
+git add
+git commit
+git pull
+gitpush
+git fetch
