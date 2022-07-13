@@ -1,6 +1,5 @@
 file
 folder
-repos
 git init
 git add
 git commit
